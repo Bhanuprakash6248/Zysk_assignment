@@ -4,8 +4,8 @@ import './LogoSection.css';
 
 const LogoSection = () => {
   const logos = [
-    { src: 'https://res.cloudinary.com/dsxcwafcw/image/upload/v1731217390/Logomark_1_mcjhj2.png', alt: '', name: 'Boltshift' },
-    { src: 'https://res.cloudinary.com/dsxcwafcw/image/upload/v1731217969/Logomark_2_lvldzm.png', alt: '', name: 'Lightbox' },
+    { src: 'https://res.cloudinary.com/dsxcwafcw/image/upload/v1731217390/Logomark_1_mcjhj2.png', alt: 'Boltshift', name: 'Boltshift' },
+    { src: 'https://res.cloudinary.com/dsxcwafcw/image/upload/v1731217969/Logomark_2_lvldzm.png', alt: 'Lightbox', name: 'Lightbox' },
     { src: 'https://res.cloudinary.com/dsxcwafcw/image/upload/v1731217991/Logomark_3_osdjnd.png', alt: 'FeatherDev Logo', name: 'FeatherDev' },
     { src: 'https://res.cloudinary.com/dsxcwafcw/image/upload/v1731218039/Logomark_4_djqnjj.png', alt: 'Spherule Logo', name: 'Spherule' },
     { src: 'https://res.cloudinary.com/dsxcwafcw/image/upload/v1731218063/Logomark_5_iupvsz.png', alt: 'GlobalBank Logo', name: 'GlobalBank' },

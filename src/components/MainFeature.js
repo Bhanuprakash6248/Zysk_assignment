@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import './MainFeature.css'; // Assuming your styles are in App.css or any other file you choose
+import './MainFeature.css'; 
 import { IoChatbubblesOutline } from "react-icons/io5";
 import { IoFlashOutline, IoBarChartOutline, IoChatbubbleEllipsesOutline, IoLinkOutline, IoPeopleOutline } from "react-icons/io5";
 

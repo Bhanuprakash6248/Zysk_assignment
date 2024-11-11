@@ -17,8 +17,17 @@ const Navbar = () => {
               <img src="https://res.cloudinary.com/dsxcwafcw/image/upload/v1731219795/Logomark_7_ikl4jb.png"  alt="" />
               <h3> Zysk Tech</h3>
               <p> Home </p>
-              <p> Products </p>
-              <p> Resources </p>
+              <select>
+                <option className='option'>Product</option>
+                <option className='option'>Product1</option>
+                <option className='option'>Product2</option>
+              </select>
+              <select>
+                <option>Resource</option>
+                <option>Resource1</option>
+                <option>Resource2</option>
+              </select>
+              
               <p> Pricing </p>               
             </div>
        

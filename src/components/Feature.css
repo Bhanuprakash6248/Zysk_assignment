@@ -113,6 +113,9 @@
     text-decoration: none;
     font-weight: bold;
   }
+  .dashboard-img2{
+    display: none;
+  }
   
   /* Responsive Styles */
   @media (min-width: 768px) {
@@ -131,3 +134,11 @@
     }
   }
   
+  @media screen and (min-width:768px){
+    .dashboard-img{
+      display: none;
+    }
+    .dashboard-img2{
+      display: block;
+    }
+  }
